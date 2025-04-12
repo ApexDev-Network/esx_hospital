@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # esx - ESX Hospital
 
-Adaptación del script original **esx_hospital** por [HumanTree92](https://github.com/HumanTree92), modificada para el framework **ESX** bajo los estándares de **ApexDev Network** por **Carri - ByLcarma**.
+Adaptación del script original **esx_hospital** por [HumanTree92](https://github.com/HumanTree92), modificada para el framework **ESX** bajo los estándares de **ApexDev Network** por **Carri - ByLcarma**  https://discord.gg/HUZZDazJAm .
 
 ## ✅ Sobre este recurso:
 
@@ -40,28 +39,10 @@ Soporte multilenguaje a través del sistema nativo de ESX:
 ## 👥 Créditos
 
 - Autor original: [HumanTree92](https://github.com/HumanTree92/esx_hospital)
-- Adaptación: **Carri - ByLcarma** para **ApexDev Network**
+- Adaptación: **Carri - ByLcarma** para **ApexDev Network**  https://discord.gg/HUZZDazJAm
 
 ---
 
 ## 📜 Licencia
 
 Este proyecto está licenciado bajo [GNU GPL v3](http://www.gnu.org/licenses/). Consulta el archivo LICENSE para más información.
-=======
-# About esx_hospital:
-This will no longer be updated. Please use my [esx_advancedhospital]( https://github.com/HumanTree92/esx_advancedhospital ) if you want an updated Version.
-
-# Visit Velociti Entertainment:
-* [Discord]( https://discord.velocitientertainment.com )
-* [Website]( https://velocitientertainment.com )
-* [Forums]( https://velocitientertainment.com/forum )
-* [About Us]( https://velocitientertainment.com/pc-gaming )
-* [Donate]( https://velocitientertainment.com/donations )
-* [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
-* [Steam Group]( https://steamcommunity.com/groups/velocitientertainment )
-* [Facebook]( https://facebook.com/VelocitiEntertainment )
-* [Twitter]( https://twitter.com/VelocitiEnt )
-* [YouTube]( https://youtube.com/user/HumanTree92 )
-* [Twitch]( https://twitch.tv/humantree92 )
-* [GitHub]( https://github.com/HumanTree92 )
->>>>>>> 92304b55eac70daedecc54874f0c2db038135c9f
