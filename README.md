@@ -1,4 +1,4 @@
-# esx - ESX Hospital
+# ESX Hospital
 
 Adaptación del script original **esx_hospital** por [HumanTree92](https://github.com/HumanTree92), modificada para el framework **ESX** bajo los estándares de **ApexDev Network** por **Carri - ByLcarma**  https://discord.gg/HUZZDazJAm .
 
