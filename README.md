@@ -36,6 +36,8 @@ Soporte multilenguaje a través del sistema nativo de ESX:
 
 ---
 
+![Preview](https://imgur.com/a/6w0LoYJ.png)
+
 ## 👥 Créditos
 
 - Autor original: [HumanTree92](https://github.com/HumanTree92/esx_hospital)
